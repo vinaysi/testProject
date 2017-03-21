@@ -12,6 +12,7 @@ namespace FirstGit
         {
             Console.WriteLine("Master branch first line");
             Console.WriteLine("Feature 2 branch first line");
+            Console.WriteLine("Feature 1 branch first line");
             Console.ReadLine();
         }
     }
